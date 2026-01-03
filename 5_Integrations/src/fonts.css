@@ -1,0 +1,9 @@
+@font-face{
+  font-family: 'Palatine';
+  font-weight: 500;
+  src: url('./fonts/NotoSans-VariableFont_wdth\,wght.ttf'), url('./fonts/NotoSans-VariableFont_wdthwght.woff');
+}
+
+p , h1{ 
+  font-family: 'Palatine';
+}

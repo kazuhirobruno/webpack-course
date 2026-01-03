@@ -1,0 +1,32 @@
+{
+  "name": "5_integrations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.8",
+    "popper.js": "^1.16.1",
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.1.0",
+    "@fortawesome/free-brands-svg-icons": "^7.1.0",
+    "@fortawesome/free-regular-svg-icons": "^7.1.0",
+    "@fortawesome/free-solid-svg-icons": "^7.1.0",
+    "css-loader": "^7.1.2",
+    "jquery": "^3.7.1",
+    "sass": "^1.97.1",
+    "sass-loader": "^16.0.6",
+    "style-loader": "^4.0.0",
+    "url-loader": "^4.1.1"
+  }
+}
